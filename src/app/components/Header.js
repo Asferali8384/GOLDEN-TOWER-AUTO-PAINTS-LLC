@@ -16,7 +16,7 @@ export default function Header() {
       {/* Logo */}
       <div style={{ width: "50px", height: "50px", position: "relative" }}>
         <Image
-          src="/assets/logo.png" // put logo.png inside /public/assets/
+          src="/assets/Logo.png" // put logo.png inside /public/assets/
           alt="Logo"
           fill
           style={{ objectFit: "contain" }}
