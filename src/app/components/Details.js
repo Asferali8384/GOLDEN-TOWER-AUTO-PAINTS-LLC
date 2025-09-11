@@ -47,7 +47,7 @@ export default function Details() {
           expertise meets artificial intelligence to redefine driving, safety,
           and vehicle management. Smart technologies are enhancing efficiency,
           personalization, and sustainability, making cars more intuitive and
-          roads safer. Embrace the future where innovation drives every journey.
+          roads safer. 
         </p>
         <button
           style={{
